@@ -25,7 +25,7 @@ For this project, you're going to use Flatiron's Google developer account. You c
 You'll want to see if you're already logged in through other Google accounts.
 
 If you see something like this...
-<img scr="https://s3.amazonaws.com/after-school-assets/chrome_signin.png">
+<img src="https://s3.amazonaws.com/after-school-assets/chrome_signin.png">
 
 you'll want to click the drop down arrow next to your gmail, and log in with Flatiron's. 
 
