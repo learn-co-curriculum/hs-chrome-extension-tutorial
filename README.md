@@ -1,6 +1,6 @@
 ##Chrome Extenions Made Easy
 
-Don't you love those Chrome Extensions where every time you open a new tab you see Left Shark Dancing? Or maybe an inspirational quote? Well, you're about to learn how to build your own.
+Don't you love those Chrome Extensions where every time you open a new tab you see [Left Shark Dancing](https://chrome.google.com/webstore/detail/katy-perry-sharks/gdamgkihggjpbiompgcmgbacpnhicnkf)? Or maybe an inspirational quote? Well, you're about to learn how to build your own.
 
 You'll want to fork and clone this repository.
 
@@ -27,7 +27,7 @@ You'll want to see if you're already logged in through other Google accounts.
 If you see something like this...
 <img src="https://s3.amazonaws.com/after-school-assets/chrome_signin.png">
 
-you'll want to click the drop down arrow next to your gmail, and log in with Flatiron's. 
+you'll want to click the drop down arrow next to your gmail, and log in with Flatiron's.
 
 ```
 Email: google@flatironschool.com
@@ -58,3 +58,7 @@ This would create a zip file called `dancing_dogs.zip` from the `dancing_dogs` d
 Once the file has been uploaded, you'll be directed to a page to fill out more information about your Chrome Extension, like the description, a screenshot for an icon, what category app is it, etc.
 
 You'll want to hit `Publish Changes` found in the bottom right corner of the page, and voila! You have a Chrome extension!
+
+##Resources
+
+[Github Repo for the Left Shark Chrome Extension](https://github.com/vicfriedman/katy_perry_chrome_extension)
