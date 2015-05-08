@@ -1,4 +1,4 @@
-##Chrome Extenions Made Easy
+##Chrome Extensions Made Easy
 
 Don't you love those Chrome Extensions where every time you open a new tab you see [Left Shark Dancing](https://chrome.google.com/webstore/detail/katy-perry-sharks/gdamgkihggjpbiompgcmgbacpnhicnkf)? Or maybe an inspirational quote? Well, you're about to learn how to build your own.
 
