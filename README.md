@@ -63,4 +63,4 @@ You'll want to hit `Publish Changes` found in the bottom right corner of the pag
 
 [Github Repo for the Left Shark Chrome Extension](https://github.com/vicfriedman/katy_perry_chrome_extension)
 
-<a href='https://learn.co/lessons/hs-chrome-extension-tutorial' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-chrome-extension-tutorial' title='Chrome Extensions Made Easy'>Chrome Extensions Made Easy</a> on Learn.co and start learning to code for free.</p>
